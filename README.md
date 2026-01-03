@@ -1,6 +1,8 @@
-# Media-Search
- A modern **Media Search Application** that allows users to search **Photos, and Videos** from popular media APIs. Built with **React**, **Redux Toolkit**, **React Router**, and **Tailwind CSS**, this app provides a fast, responsive, and user-friendly experience with persistent data using **LocalStorage**.
+# 📺 Media Search Application
 
+A modern **Media Search Application** that allows users to search **Photos, and Videos** from popular media APIs. Built with **React**, **Redux Toolkit**, **React Router**, and **Tailwind CSS**, this app provides a fast, responsive, and user-friendly experience with persistent data using **LocalStorage**.
+
+---
 
 ## 🚀 Features
 
@@ -97,14 +99,6 @@ src/
 
 ---
 
-## ▶️ Getting Started
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/media-search-app.git
-cd media-search-app
-```
 
 ### 2️⃣ Install Dependencies
 
@@ -136,16 +130,6 @@ _Add screenshots of your application here_
 
 ---
 
-## 👨‍💻 Author
-
-**Jeet Ranpariya**  
-Frontend / MERN Stack Developer
-
-- 💼 Portfolio: _Add your portfolio link_
-- 🔗 GitHub: _Add your GitHub link_
-- 🔗 LinkedIn: _Add your LinkedIn link_
-
----
 
 ## 📄 License
 
